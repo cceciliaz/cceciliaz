@@ -9,18 +9,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cceciliaz&bg_color=0d1117&color=ff0000&line=ffae00&point=c20000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  
-  ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
   
-  <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cceciliaz}/count.svg" /></p> 
 <br>
